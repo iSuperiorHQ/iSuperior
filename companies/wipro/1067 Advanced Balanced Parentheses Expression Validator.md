@@ -214,19 +214,6 @@ Efficient handling is required for very large expressions.
 
 ---
 
-## **What they check:**
-
-* Proper use of **Stack data structure**
-* Expression parsing ability
-* Correct nesting validation
-* Edge case handling:
-
-  * Empty stack access
-  * Deep nesting
-  * Mixed bracket types
-
----
-
 ## **Execution Time Limit**
 
 **10 seconds**

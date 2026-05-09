@@ -196,16 +196,6 @@ The problem can also be solved iteratively using:
 
 ---
 
-## **What they check:**
-
-* Recursive traversal understanding
-* Tree depth computation
-* Base case handling
-* DFS vs BFS knowledge
-* Large skewed-tree handling
-
----
-
 ## **Execution Time Limit**
 
 **10 seconds**

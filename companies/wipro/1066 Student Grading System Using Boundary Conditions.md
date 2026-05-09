@@ -203,15 +203,6 @@ This checks proper handling of inclusive boundaries.
 
 ---
 
-## **What they check:**
-
-* Correct conditional logic
-* Inclusive boundary handling
-* Input validation
-* Logical flow design
-
----
-
 ## **Execution Time Limit**
 
 **10 seconds**

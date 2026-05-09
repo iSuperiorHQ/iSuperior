@@ -208,15 +208,6 @@ k³ == sum
 
 ---
 
-## **What they check:**
-
-* Mathematical reasoning
-* Perfect cube validation
-* Precision handling for cube roots
-* Large input efficiency
-
----
-
 ## **Execution Time Limit**
 
 **10 seconds**

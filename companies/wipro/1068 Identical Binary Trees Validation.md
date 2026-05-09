@@ -220,16 +220,6 @@ OR
 
 ---
 
-## **What they check:**
-
-* Recursive tree traversal
-* Structural comparison logic
-* Base case handling
-* Null node validation
-* Large tree efficiency
-
----
-
 ## **Execution Time Limit**
 
 **10 seconds**
